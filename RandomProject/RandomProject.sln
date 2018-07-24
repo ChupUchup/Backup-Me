@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseUtility", "MouseUtility\MouseUtility.csproj", "{AEB08601-5A92-4F69-B200-147EF5F69CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yping", "Yping\Yping.csproj", "{3F634F2E-906E-462E-9797-3FD0AB4A98BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MouseClick", "MouseClick\MouseClick.csproj", "{76F51782-4E18-4567-81C9-9133C8FC37DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AOCraft", "AOCraft\AOCraft.csproj", "{EDCDBE28-EE29-4A54-9ED8-42DE597C5D1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB08601-5A92-4F69-B200-147EF5F69CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB08601-5A92-4F69-B200-147EF5F69CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB08601-5A92-4F69-B200-147EF5F69CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB08601-5A92-4F69-B200-147EF5F69CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F634F2E-906E-462E-9797-3FD0AB4A98BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F634F2E-906E-462E-9797-3FD0AB4A98BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F634F2E-906E-462E-9797-3FD0AB4A98BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F634F2E-906E-462E-9797-3FD0AB4A98BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F51782-4E18-4567-81C9-9133C8FC37DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F51782-4E18-4567-81C9-9133C8FC37DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F51782-4E18-4567-81C9-9133C8FC37DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F51782-4E18-4567-81C9-9133C8FC37DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCDBE28-EE29-4A54-9ED8-42DE597C5D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCDBE28-EE29-4A54-9ED8-42DE597C5D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCDBE28-EE29-4A54-9ED8-42DE597C5D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCDBE28-EE29-4A54-9ED8-42DE597C5D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
